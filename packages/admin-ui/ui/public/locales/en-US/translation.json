@@ -93,7 +93,7 @@
   "Select role": "Select role",
   "Invite": "Invite",
   "These credentials do not match our records.": "These credentials do not match our records.",
-  "Log in to Medusa": "Log in to Medusa",
+  "Log in to Maroc4products": "Log in to Maroc4products",
   "Password": "Password",
   "Forgot your password?": "Forgot your password?",
   "Add Metadata": "Add Metadata",
@@ -1342,5 +1342,9 @@
   "Insert above": "Insert above",
   "Insert below": "Insert below",
   "Clear contents": "Clear contents",
-  "Drafts": "Drafts"
+  "Drafts": "Drafts",
+  "Subtitle by Arabic": "Subtitle by Arabic",
+  "Subtitle by English": "Subtitle by English",
+  "Title by Arabic": "Title by Arabic",
+  "Title by English": "Title by English"
 }
